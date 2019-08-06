@@ -21,5 +21,11 @@ namespace ConsoleApp1
             get;
             set;
         }
+
+        public int Age
+        {
+            get;
+            set;
+        }
     }
 }
